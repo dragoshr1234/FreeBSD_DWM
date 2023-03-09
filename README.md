@@ -1,4 +1,4 @@
-DWM-Flexipatch for DWM with some addons from me:
+DWM-Flexipatch for FreeBSD with some addons from me:
 
 (Patches turned on so far)
 
