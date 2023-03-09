@@ -1,5 +1,7 @@
 DWM-Flexipatch for DWM with some addons from me:
+
 (Patches turned on so far)
+
 - Autostart patch
 - Rounded corners patch
 - Resize and Move patch
@@ -8,7 +10,9 @@ DWM-Flexipatch for DWM with some addons from me:
 - Winicon
 - Center Title
 - Vacant tags
+
 (Keybidings added by me)
+
 - Mod key is Super Key
 - Default terminal set to Alacritty
 - MOD + Shift + T opens Telegram
