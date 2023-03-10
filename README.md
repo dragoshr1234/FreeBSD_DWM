@@ -18,6 +18,6 @@ DWM-Flexipatch for FreeBSD with some addons from me:
 - MOD + Shift + T opens Telegram
 - MOD + Shift + P opens Rofi nice
 - MOD + Shift + B opens Firefox
-- MOD + Shift + F opens Nemo
+- MOD + Shift + N opens Nemo
 
 Left to add are my dotfiles.
