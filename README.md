@@ -1,4 +1,4 @@
-DWM-Flexipatch for FreeBSD with some addons from me:
+NuDWM-Flexipatch for FreeBSD with some addons from me:
 
 (Patches turned on so far)
 
@@ -16,7 +16,7 @@ DWM-Flexipatch for FreeBSD with some addons from me:
 - Mod key is Super Key
 - Default terminal set to Alacritty
 - MOD + Shift + T opens Telegram
-- MOD + Shift + P opens Rofi nice
+- MOD + P opens Rofi nice
 - MOD + Shift + B opens Firefox
 - MOD + Shift + N opens Nemo
 
